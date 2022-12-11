@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1320px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.left__div {
+  display: flex;
+}
+
+.left__div__image {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.left__div__child {
+  margin-top: 20px;
+}
+
+.left__address__paragraph {
+  margin-left: 400px;
+}
